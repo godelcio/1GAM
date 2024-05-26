@@ -1,0 +1,12 @@
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\PongoMono.exe
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\PongoMono.pdb
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\OpenTK.dll
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\obj\x86\Debug\PongoMono.exe
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\obj\x86\Debug\PongoMono.pdb
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\Content\paddle.png
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\Content\ball.png
+C:\Dev\Projects\PongMono\PongoMono\PongoMono\bin\WindowsGL\Debug\Content\PongGameFont.xnb
