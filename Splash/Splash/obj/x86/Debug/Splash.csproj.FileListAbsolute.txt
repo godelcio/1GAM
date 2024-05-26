@@ -1,0 +1,17 @@
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\grass.png
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\hit.wav
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\hitMiss.wav
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\mole0.png
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\mole1.png
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\mole2.png
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Content\viking.png
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Splash.exe
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Splash.pdb
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\obj\x86\Debug\Splash.exe
+C:\Users\Delcio\documents\visual studio 2010\Projects\Splash\Splash\obj\x86\Debug\Splash.pdb

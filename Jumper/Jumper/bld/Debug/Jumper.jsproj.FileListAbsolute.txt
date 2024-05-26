@@ -1,0 +1,13 @@
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bin\Debug\resources.pri
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bin\Debug\AppxManifest.xml
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bin\Debug\Jumper.build.appxrecipe
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\priconfig.xml
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\layout.resfiles
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\resources.resfiles
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\pri.resfiles
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\LanguageQualifiers.txt
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\ProjectArchitectures.txt
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\priconfig.xml.intermediate
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\layout.resfiles.intermediate
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\resources.resfiles.intermediate
+c:\users\delcio\documents\visual studio 2012\Projects\Jumper\Jumper\bld\Debug\pri.resfiles.intermediate

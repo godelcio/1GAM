@@ -1,0 +1,52 @@
+<!DOCTYPE html><!--HTML5 doctype-->
+<html>
+<head>
+  <title>Snake HTML</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+    <meta name="viewport" content="width=320, height=440, user-scalable=no, initiall-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="apple-touch-startup-image" href="iphonestartup.png">
+    <style type="text/css">
+    /* Prevent copy paste for all elements except text fields */
+      { -webkit-user-select:none; 
+        -webkit-tap-highlight-color:rgba(255, 255, 255, 0); 
+      }
+      input, textarea  { -webkit-user-select:text; }
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -o-user-select: none
+      user-select: nonel
+    </style>
+    <style type="text/css">
+        body {background:#000; margin:0; padding:0;}
+        #snakeGame {display:block; width:320px; height:400px; margin:0 auto; background: #000; position: relative;}
+        #snakeGame canvas {display: block; background: #eee8aa url(bg.png) 0 no-repeat; width:320px; height:400px;}
+        #snakeGame .controls {position:absolute; bottom:5px; left:0;}
+        #snakeGame .controls a {display:inline-block; background:#444; color:#17086c; width:150px; margin:0 0 0 5px; height:40px; line-height:100%;font-size:40px; text-align:center; text-decoration:none; border-radius:5px;}
+        #snakeGame .controls a:active {background:#07075a}
+        #snakeGame .controls a:hover {background:#07075a}
+    </style>
+    <script src="http://debug-software.intel.com/target/target-script-min.js#kVhDgRginYFxonOQEWPYRoAnrry6ZcqmtLT6pT5ajgE"></script>
+  <script src='intelxdk.js'></script>
+  <script type="text/javascript">
+    /* This code is used to run as soon as Intel activates */
+    var onDeviceReady=function(){
+      //hide splash screen
+      intel.xdk.device.hideSplashScreen();
+    };
+    document.addEventListener("intel.xdk.device.ready",onDeviceReady,false);
+    </script>
+</head>
+<body>
+    <div id="snakeGame">
+        <canvas id="snakeCanvas"></canvas>
+        <div class="controls">
+            <a href="#" id="leftButton">&laquo;</a>
+            <a href="#" id="rightButton">&raquo;</a>
+        </div>
+    </div>
+    <script src="snake.js"></script>
+</body>
+</html>

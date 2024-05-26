@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pong\Scripts\Enemy.js">
+    <Files>
+      <File FileName="Assets\Pong\Scripts\Ball.js" Line="27" Column="3" />
+      <File FileName="Assets\Pong\Scripts\Player.js" Line="27" Column="3" />
+      <File FileName="Assets\Pong\Scripts\GameGui.js" Line="3" Column="19" />
+      <File FileName="Assets\Pong\Scripts\Enemy.js" Line="15" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
